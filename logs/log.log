@@ -1,0 +1,16 @@
+2024-12-12 15:49:08,917 | INFO | __main__ | l: 175 | Using device: cuda
+2024-12-12 15:49:09,923 | INFO | root | l: 167 | Loaded checkpoint sucessfully
+2024-12-12 15:49:10,124 | INFO | __main__ | l: 160 | Input images directory: data/single_person/jpg/
+2024-12-12 15:49:10,124 | INFO | __main__ | l: 161 | Output images directory: data/single_person/jpg/masked_out
+2024-12-12 15:49:16,748 | INFO | __main__ | l: 256 | Select the bounding box to start the segmentation
+2024-12-12 15:49:19,171 | INFO | __main__ | l: 209 | Current bounding box: [824, 903, 1166, 1104]
+2024-12-12 15:49:21,963 | INFO | __main__ | l: 319 | Selector mode: Exclude point
+2024-12-12 15:49:22,115 | INFO | __main__ | l: 204 | Selected exclude point: (1136, 1065)
+2024-12-12 15:49:25,522 | INFO | __main__ | l: 204 | Selected exclude point: (1132, 989)
+2024-12-12 15:49:26,892 | INFO | __main__ | l: 204 | Selected exclude point: (1113, 985)
+2024-12-12 15:49:27,819 | INFO | __main__ | l: 309 | Resetting the bounding box
+2024-12-12 15:49:28,707 | INFO | __main__ | l: 204 | Selected exclude point: (876, 924)
+2024-12-12 15:49:30,979 | INFO | __main__ | l: 309 | Resetting the bounding box
+2024-12-12 15:49:31,544 | INFO | __main__ | l: 325 | Selector mode: Bounding box
+2024-12-12 15:49:34,274 | INFO | __main__ | l: 209 | Current bounding box: [874, 921, 1101, 1090]
+2024-12-12 15:50:10,091 | INFO | __main__ | l: 524 | Segmentation saved to data/single_person/jpg/masked_out
